@@ -1,0 +1,20 @@
+class BankAccount:
+#     def __init__(self,account_number,balance):
+#         self.account_number=account_number
+#         self.balance=balance
+#     def deposit(self,deposit):
+#         self.deposit=deposit
+#     def withdraw(self,withdraw):
+#         self.withdraw=withdraw
+#     def get_balance(self):
+#         return self.balance
+#     def balance_left(self,withdraw):
+#         self.balance-=withdraw
+#         return self.balance
+# account_number=int(input())
+# balance=int(input())
+# withdraw=int(input())
+# deposit=int(input())
+# p1=BankAccount(account_number,balance)
+# print(p1.get_balance())
+# print(p1.balance_left(withdraw))
